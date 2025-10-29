@@ -9,12 +9,15 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
-2. Create prioritized backlog with acceptance criteria
+1. Kickoff meeting with stakeholders and delivery team (facilitated by PM or Scrum Master)
+2. Create prioritized backlog with acceptance criteria (led by Product Manager with Business Analyst support)
 3. Estimate scope (T-shirt sizing or story points)
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. UX Designer provides design specifications and wireframes for user-facing features
+8. Business Analyst documents functional requirements and process flows
+9. Stakeholder Champion ensures stakeholder needs are captured in backlog
 
 ## Backlog Item Template
 - Title:
@@ -41,3 +44,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX design specifications reviewed for user-facing features
+- [ ] Business requirements documented by Business Analyst
+- [ ] Stakeholder Champion confirms stakeholder alignment
+- [ ] Scrum Master confirms team capacity and sprint structure
+- [ ] Cross-functional roles assigned and responsibilities clear

@@ -4,9 +4,11 @@
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
 ## Team Rhythm
-- Daily standups (15 min) — focus on progress, blockers, dependencies
+- Daily standups (15 min) — focus on progress, blockers, dependencies (facilitated by Scrum Master)
 - Weekly delivery sync — show progress, updates, and flagged risks
-- Demo/Review at the end of each sprint or milestone
+- Demo/Review at the end of each sprint or milestone (Product Manager and UX Designer present)
+- Sprint planning (Scrum Master facilitates, Product Manager prioritizes)
+- Sprint retrospectives (Scrum Master facilitates continuous improvement)
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
@@ -22,6 +24,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- UX validation and usability testing for user-facing features
+- Business Analyst validates that delivered features meet business requirements
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -29,8 +33,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Use dashboards for key signals (errors, latency, usage)
 
 ## Blocker Escalation
-- Level 1: Team-level triage in daily standup
-- Level 2: PM escalates to Product Lead and dependent teams
+- Level 1: Team-level triage in daily standup (Scrum Master removes impediments)
+- Level 2: PM escalates to Product Lead and dependent teams (Stakeholder Champion engages stakeholders)
 - Level 3: Sponsor-level escalation for business-impacting issues
 
 ## Execution Checklist

@@ -14,10 +14,11 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan (with Stakeholder Champion identified)
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Role assignments for Project Manager, Product Manager, Scrum Master, and other key roles
 
 ## Project One-pager Template
 - Project name:
@@ -28,6 +29,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager:
+  - Product Manager:
+  - Scrum Master (if using agile):
+  - UX Designer (for user-facing features):
+  - Business Analyst (for complex requirements):
+  - Stakeholder Champion:
+  - Developers:
+  - QA/Testing:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
@@ -35,6 +44,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Key roles identified (PM, Product Manager, Scrum Master, Stakeholder Champion)
+- [ ] Initial team composition confirmed with required skills (Dev, UX, BA as needed)
 
 ## Decision Gate
 Move to planning when:

@@ -21,8 +21,10 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Assign a Stakeholder Champion to represent each major stakeholder group
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Stakeholder Champion facilitates feedback loops and ensures stakeholder concerns are addressed
 
 ## Communication Templates
 Weekly Status Template:
